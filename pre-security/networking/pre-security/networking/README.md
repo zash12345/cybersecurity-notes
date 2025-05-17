@@ -1,14 +1,17 @@
 # 🌐 Networking – TryHackMe Pre-Security
 
-Folder ini berisi dokumentasi pembelajaran saya tentang fundamental jaringan komputer dari module Pre-Security TryHackMe.
+Folder ini berisi dokumentasi pembelajaran saya tentang fundamental jaringan komputer dari modul **Pre-Security** di TryHackMe.
 
-📌 Topik yang sudah saya pelajari:
-- What is Networking?
-- Intro to LAN
-- OSI Model ← (yang ini lengkap di file `osi-model.md`)
+📌 **Topik yang sudah saya pelajari dan dokumentasikan:**
 
-📚 Catatan ini saya buat untuk memperkuat pemahaman saya dan sekaligus sebagai portofolio pembelajaran.
+- [`What is Networking?`](#) 
+- [`Intro to LAN`]
+- [`OSI Model`](osi-model.md)
+- [`Packets and Frames`](packets-and-frames.md)
 
-🔗 Sumber utama:
+📚 **Tujuan dokumentasi ini:**
+- Memperkuat pemahaman saya dalam dunia jaringan dan cybersecurity
+- Membangun portofolio publik untuk career switch ke bidang IT
+
+🔗 **Sumber pembelajaran:**
 - [TryHackMe – Pre-Security](https://tryhackme.com/module/presecurity)
-- google and chatGPT
